@@ -1,0 +1,3 @@
+# 核心零硬依赖（LLM 走标准库 urllib；图/向量检索纯 Python 实现）
+# 生产可换：Milvus/FAISS/ChromaDB（向量）、Neo4j/ArangoDB（图）
+numpy>=1.24
